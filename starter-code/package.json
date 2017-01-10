@@ -1,0 +1,30 @@
+{
+  "name": "07-node-npm",
+  "version": "1.0.0",
+  "description": "build server for blog app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radenska/07-node-npm.git"
+  },
+  "keywords": [
+    "js",
+    "codefellows",
+    "301",
+    "server",
+    "node"
+  ],
+  "author": "radenska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radenska/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/radenska/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
